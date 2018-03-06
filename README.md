@@ -1,0 +1,2 @@
+# programlama
+programlama python odevi
